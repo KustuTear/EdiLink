@@ -1,2 +1,12 @@
-# EdiLink
+<div align="align="center"">
+<span style="font-size:1.5em">**Edilink</span>**  
+</div>
+
 An EDIFIER earphone controller based on material design.
+
+# Broken thoughts
+This is my simple attempt at Material Design,so please don't have too hign expectation of the project.
+And most of the functional codes are not written by me.If you wants to provide functional support,you'd better go to the [mEDIFIER repository](https://github.com/mEDIFIER)
+
+# Credit
+[mEDIFIER](https://github.com/mEDIFIER)
