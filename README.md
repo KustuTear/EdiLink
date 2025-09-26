@@ -1,7 +1,4 @@
-<div align="align="center"">
-<span style="font-size:1.5em">**Edilink</span>**  
-</div>
-
+# Edilink
 An EDIFIER earphone controller based on material design.
 
 # Broken thoughts
